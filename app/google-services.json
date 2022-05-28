@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595321514751",
+    "project_id": "wyyderinc",
+    "storage_bucket": "wyyderinc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595321514751:android:c14f423e828c8e659dfaca",
+        "android_client_info": {
+          "package_name": "com.wyyder.inc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595321514751-l9ohpf0bt1tcuuo9834f4rtgpu01a286.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgF_hKknLLMDGqkbhSQhVBkkGJ2-UL4kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595321514751-l9ohpf0bt1tcuuo9834f4rtgpu01a286.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
